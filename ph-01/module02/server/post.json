@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "title": "Mr.",
+        "name": "John Doe"
+    },
+    {
+        "id": 2,
+        "title": "Ms.",
+        "name": "Jane Smith"
+    },
+    {
+        "id": 3,
+        "title": "Dr.",
+        "name": "Michael Johnson"
+    }
+]
